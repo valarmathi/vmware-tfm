@@ -1,6 +1,6 @@
 provider "vsphere" {
-  user           =*****************************
-  password       =*****************************
+  user           ="cmpdev.svc@itomcmp.servicenow.com"
+  password       ="cmp#VxB@N7SM"
   vsphere_server = "10.198.1.13"
 
   # If you have a self-signed cert
